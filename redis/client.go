@@ -4,7 +4,7 @@ import (
 	"fmt"
 	redigo "github.com/gomodule/redigo/redis"
 	"github.com/gpmgo/gopm/modules/log"
-	"rayz/filewatcher/config"
+	"rayz/gowatcher/config"
 )
 
 var Conn redigo.Conn

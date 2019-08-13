@@ -6,7 +6,7 @@ import (
 	"log"
 	"os"
 	"path/filepath"
-	"rayz/filewatcher/config"
+	"rayz/gowatcher/config"
 )
 
 type listener struct {

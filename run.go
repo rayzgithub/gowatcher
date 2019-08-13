@@ -2,8 +2,8 @@ package main
 
 import (
 	"log"
-	"rayz/filewatcher/listener"
-	"rayz/filewatcher/redis"
+	"rayz/gowatcher/listener"
+	"rayz/gowatcher/redis"
 )
 
 func main() {
